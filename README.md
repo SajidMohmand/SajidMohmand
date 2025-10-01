@@ -1,76 +1,49 @@
-👋 Hi, I’m Sajid Ali Khan
+<h1 align="center">Hi 👋, I'm Sajid Ali Khan</h1>
+<h3 align="center">A passionate Software Engineer from Pakistan</h3>
 
-📍 Gujranwala, Pakistan
-📧 sajid.muhmand99@gmail.com
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=sajidmohmand&label=Profile%20views&color=0e75b6&style=flat" alt="sajidmohmand" /> </p>
 
-📱 +92 325 7674043
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sajidmohmand" alt="sajidmohmand" /></a> </p>
 
-🚀 About Me
+<p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
-I’m a Mobile App Developer & Associate Software Engineer with expertise in Flutter, MERN, and Backend Development. Passionate about building scalable apps with smooth UI/UX and real-time backend integration. I love solving problems, exploring new technologies, and delivering impactful solutions.
+- 🔭 I’m currently working on [IBank](https://github.com/SajidMohmand/IBank-App.git)
 
-🏆 Highlights & Achievements
+- 🌱 I’m currently learning **DevOps and Cloud Deployment**
 
-✅ Delivered multiple apps on Fiverr with 5⭐ ratings and 100% client satisfaction
+- 👯 I’m looking to collaborate on **Open-source Flutter + MERN stack applications**
 
-✅ Built and deployed feature-rich Flutter apps with Firebase
+- 🤝 I’m looking for help with **real-time databases**
 
-✅ Solved 246+ LeetCode problems (Top 10% globally)
+- 👨‍💻 All of my projects are available at [https://sajid-portfolio-five.vercel.app/](https://sajid-portfolio-five.vercel.app/)
 
-✅ Final Year Project: Legal Right Awareness App (AI chatbot + real-time lawyer-client interaction)
+- 📝 I regularly write articles on [https://dev.to/lltechnolab/flutter-vs-react-native-which-framework-is-the-best-option-i39](https://dev.to/lltechnolab/flutter-vs-react-native-which-framework-is-the-best-option-i39)
 
-💻 Tech Stack
+- 💬 Ask me about **Flutter, MERN, Firebase, REST APIs, Problem Solving (DSA)**
 
+- 📫 How to reach me **sajid.muhmand99@gmail.com**
 
+- 📄 Know about my experiences [https://drive.google.com/file/d/1z5dw8QKWuW0PjGJs4znGV36ENt4xCGKE/view?usp=drive_link](https://drive.google.com/file/d/1z5dw8QKWuW0PjGJs4znGV36ENt4xCGKE/view?usp=drive_link)
 
+- ⚡ Fun fact **I think I am funny 😄**
 
+### Blogs posts
+<!-- BLOG-POST-LIST:START -->
+<!-- BLOG-POST-LIST:END -->
 
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://linkedin.com/in/sajidmuhmand" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="sajidmuhmand" height="30" width="40" /></a>
+<a href="https://fb.com/sajid.ali.669707" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="sajid.ali.669707" height="30" width="40" /></a>
+<a href="https://medium.com/@sajid.muhmand99" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@sajid.muhmand99" height="30" width="40" /></a>
+<a href="https://www.leetcode.com/sajidmohmand" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="sajidmohmand" height="30" width="40" /></a>
+</p>
 
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://dart.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" alt="dart" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://flutter.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> </p>
 
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=sajidmohmand&show_icons=true&locale=en&layout=compact" alt="sajidmohmand" /></p>
 
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sajidmohmand&show_icons=true&locale=en" alt="sajidmohmand" /></p>
 
-
-
-
-
-
-
-
-
-
-📂 Featured Projects
-
-📱 Deli Meals App
- – Flutter Mobile Application
-
-📱 GeoTrack
- – Smart Address Tracker (Flutter + Firebase)
-
-🌐 Blogify
- – Full-Stack Blog Application
-
-📱 Japan Travelling App – Fiverr Project (5⭐ rating)
-
-🎓 Portfolio Website
-
-📊 GitHub Stats
-
-🎓 Education
-
-BS Computer Science – Gift University, Gujranwala (2021 – 2025)
-
-ICS – Superior Group of Colleges (2018 – 2020)
-
-📜 Certifications
-
-Flutter Development (No Heaven)
-
-Docker (No Heaven)
-
-PRC SIP (Red Crescent)
-
-🌍 Connect With Me
-
-
-
-
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sajidmohmand&" alt="sajidmohmand" /></p>
