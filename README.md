@@ -1,21 +1,21 @@
 ![logo](https://github.com/SajidMohmand/SajidMohmand/blob/main/SAJID%20ALI.png)
 <h1 align="center">Hi 👋, I'm Sajid Ali Khan</h1>
-<h3 align="center">A passionate Software Engineer from Pakistan</h3>
+<h3 align="center">A passionate Full Stack Software Engineer from Pakistan</h3>
 <img align="right" alt="coding" width="400" src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif">
 
-- 🔭 I’m currently working on [IBank](https://github.com/SajidMohmand/IBank-App.git)
+- 🔭 I’m currently working on [Blockrithms](https://blockrithms.com/)
 
 - 🌱 I’m currently learning **DevOps and Cloud Deployment**
 
 - 👯 I’m looking to collaborate on **Open-source Flutter + MERN stack applications**
 
-- 🤝 I’m looking for help with **real-time databases**
+- 🤝 I’m looking for help with **Mobile Apps and Backend Deployment**
 
 - 👨‍💻 All of my projects are available at [https://sajid-portfolio-five.vercel.app/](https://sajid-portfolio-five.vercel.app/)
 
 - 📝 I regularly write articles on [https://dev.to/lltechnolab/flutter-vs-react-native-which-framework-is-the-best-option-i39](https://dev.to/lltechnolab/flutter-vs-react-native-which-framework-is-the-best-option-i39)
 
-- 💬 Ask me about **Flutter, MERN, Firebase, REST APIs, Problem Solving (DSA)**
+- 💬 Ask me about **Flutter, MERN, Firebase, Nest js, REST APIs, Problem Solving (DSA)**
 
 - 📫 How to reach me **sajid.muhmand99@gmail.com**
 
