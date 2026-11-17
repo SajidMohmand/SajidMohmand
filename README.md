@@ -76,16 +76,16 @@ I'm a passionate **Full Stack Software Engineer** from Pakistan, building cross-
 
 <div align="center">
 
-<img height="180" src="https://github-readme-stats.vercel.app/api?username=sajidmohmand&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub stats" />
-<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sajidmohmand&layout=compact&theme=tokyonight&hide_border=true" alt="Top languages" />
+<img height="180" src="https://github-readme-stats-sigma-five.vercel.app/api?username=sajidmohmand&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub stats" />
+<img height="180" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=sajidmohmand&layout=compact&theme=tokyonight&hide_border=true" alt="Top languages" />
 
 <br/>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=sajidmohmand&theme=tokyonight&hide_border=true" alt="GitHub streak" />
+<img src="https://streak-stats.demolab.com/?user=sajidmohmand&theme=tokyonight&hide_border=true" alt="GitHub streak" />
 
 <br/>
 
-<a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sajidmohmand&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=7" alt="GitHub trophies" /></a>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=sajidmohmand&theme=tokyonight" alt="Profile details" />
 
 </div>
 
