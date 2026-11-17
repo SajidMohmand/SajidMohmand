@@ -76,16 +76,11 @@ I'm a passionate **Full Stack Software Engineer** from Pakistan, building cross-
 
 <div align="center">
 
-<img height="180" src="https://github-readme-stats-sigma-five.vercel.app/api?username=sajidmohmand&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub stats" />
-<img height="180" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=sajidmohmand&layout=compact&theme=tokyonight&hide_border=true" alt="Top languages" />
+<img width="49%" src="https://raw.githubusercontent.com/SajidMohmand/SajidMohmand/main/profile-summary-card-output/tokyonight/0-profile-details.svg" alt="Profile details" />
+<img width="49%" src="https://raw.githubusercontent.com/SajidMohmand/SajidMohmand/main/profile-summary-card-output/tokyonight/3-stats.svg" alt="GitHub stats" />
 
-<br/>
-
-<img src="https://streak-stats.demolab.com/?user=sajidmohmand&theme=tokyonight&hide_border=true" alt="GitHub streak" />
-
-<br/>
-
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=sajidmohmand&theme=tokyonight" alt="Profile details" />
+<img width="49%" src="https://raw.githubusercontent.com/SajidMohmand/SajidMohmand/main/profile-summary-card-output/tokyonight/2-most-commit-language.svg" alt="Most used languages" />
+<img width="49%" src="https://raw.githubusercontent.com/SajidMohmand/SajidMohmand/main/profile-summary-card-output/tokyonight/1-repos-per-language.svg" alt="Repos per language" />
 
 </div>
 
