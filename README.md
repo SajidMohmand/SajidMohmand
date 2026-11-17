@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0e75b6,100:6a11cb&height=200&section=header&text=Sajid%20Ali%20Khan&fontSize=52&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Full%20Stack%20Software%20Engineer%20%7C%20Flutter%20%26%20MERN%20%7C%20Pakistan&descSize=18&descAlignY=60" alt="Sajid Ali Khan banner" width="100%"/>
+<img src="https://raw.githubusercontent.com/SajidMohmand/SajidMohmand/main/banner.svg" alt="Sajid Ali Khan banner" width="100%"/>
 
 <a href="https://github.com/SajidMohmand"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=0E75B6&center=true&vCenter=true&width=640&lines=Full+Stack+Software+Engineer;Flutter+%2B+MERN+Stack+Developer;Backend+%26+REST+API+Specialist;Learning+DevOps+%26+Cloud+Deployment" alt="Typing SVG" /></a>
 
@@ -106,6 +106,6 @@ I'm a passionate **Full Stack Software Engineer** from Pakistan, building cross-
 
 *⭐ If you like my work, consider giving my repositories a star!*
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0e75b6,100:6a11cb&height=100&section=footer" alt="footer" width="100%"/>
+<img src="https://raw.githubusercontent.com/SajidMohmand/SajidMohmand/main/footer.svg" alt="footer" width="100%"/>
 
 </div>
